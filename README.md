@@ -3,10 +3,8 @@
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THARU+MD;MADE+BY+THARU+MD" alt="Typing SVG" /></a>
 
-<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
 
-<img align="center" height="auto"
-src=""/>
+
 
 <br>
 
@@ -51,7 +49,7 @@ src=""/>
 
 <p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 𝗢𝗥 𝗔𝗗𝗗 𝗖𝗿𝗲𝗱𝘀.𝗷𝘀𝗼𝗻</p>
 
-<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
+
 
 
 **3.Third Step**
@@ -130,7 +128,7 @@ jobs:
       run: npm start
 ```
 
-<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
+
 
 `✠ HOW TO DEPLOY THARU MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
@@ -141,7 +139,7 @@ jobs:
     </a>
 </p>
 
-<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
+
 
 
  ### <br> ❖ FOR SUPPORT ❖
@@ -154,7 +152,7 @@ jobs:
   <a href="https://wa.me/+94789549564?text=*ʜɪɪ+THARU--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+THARU-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>  
+
 ----------    
 
 `✠ IF YOU WANT MORE ABOUT THARU MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
@@ -171,7 +169,7 @@ jobs:
 
 <a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
-<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
+
 
 
 ***

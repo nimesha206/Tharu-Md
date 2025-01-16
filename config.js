@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 ///=================When editing, do not accidentally delete anything !!MAIN-CONFIG=================================
-SESSION_ID: process.env.SESSION_ID || "අයිඩී එක දාන්න",  // ADD Your Session Id 
-MODE: process.env.MODE || "public",  // Add Your Bot Mode (groups/privet/public)
+SESSION_ID: process.env.SESSION_ID || "SEON-MD=ucFFECBS#M4zgbBziGxzrlukEel4PlKsYNtc3LCObbp_mUg1ADyk",  // ADD Your Session Id 
+MODE: process.env.MODE || "privet",  // Add Your Bot Mode (groups/privet/public)
 PREFIX: process.env.PREFIX || ".",   // Add Your Custom Prefix 
 OWNER_REACT: process.env.OWNER_REACT || "true", //add true or false
 BOT_NAME: process.env.BOT_NAME || "THARU 𝙼𝙳 v2",

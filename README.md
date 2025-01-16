@@ -10,7 +10,7 @@ d<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
 
    </p>
 <p align="center">
-<a href="https://github.com/nimesha206"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/94789549564"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nimesha206"><img title="Author" src="https://img.shields.io/badge/nima-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/94789549564"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">

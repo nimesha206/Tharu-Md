@@ -39,13 +39,13 @@ td<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
 **2. Second Step**
 
 <p align="left">
-<a href='https://pair-site-4aa42f6818d3.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://seon-md-pair-ff9b3759e9a3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkblue?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 
 **3. Use borrowed session If the above not working**
 
 <p align="left">
-<a href='https://tharu-md-pair-ff9b3759e9a3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkblue?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://seon-md-pair-ff9b3759e9a3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkblue?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗 𝗢𝗥 𝗔𝗗𝗗 𝗖𝗿𝗲𝗱𝘀.𝗷𝘀𝗼𝗻</p>
 

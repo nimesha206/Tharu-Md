@@ -29,7 +29,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['94789549564']
+const ownerNumber = ['263780934873']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/session/creds.json')) {
@@ -49,7 +49,7 @@ const port = process.env.PORT || 9090;
 //=============================================
 
 async function connectToWA() {
-console.log("𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙽𝙶 THARU 𝙼𝙳 🎭...");
+console.log("𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙽𝙶 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 🎭...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -77,28 +77,28 @@ require("./plugins/" + plugin);
 }
 });
 console.log('𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 ✅')
-console.log('THARU 𝙼𝙳 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚃𝙾 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙴𝙽𝙹𝙾𝚈 ✅')
+console.log('𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚃𝙾 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙴𝙽𝙹𝙾𝚈 ✅')
 
 let up = ` ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
 
- ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ THARU ᴍᴅ
+ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍᴀʟᴠɪɴ ᴍᴅ
 
 *🔹 ᴘʀᴇғɪx:* .
 
-*🔹 ᴏᴡɴᴇʀ:* 94789549564
+*🔹 ᴏᴡɴᴇʀ:* 263714757857
 
 *🖇️Join My WhatsApp Channels✓💗* 
 
-- : https://chat.whatsapp.com/HHWEOR1lEnrEZJjMu9niP8
+- : https://whatsapp.com/channel/0029VayTeumIN9io4KVkqx28
 
-- : https://chat.whatsapp.com/HHWEOR1lEnrEZJjMu9niP8
+- : https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 
 *🖇️Subscribe My Youtube Channel✓💗*
 
- - : https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH
+ - : https://www.youtube.com/malvintech2
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ THARU ᴍᴅ 🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/3nugy4.jpeg` }, caption: up })
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ xᴍᴅ 🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`;
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/n5vvij.jpg` }, caption: up })
 
 }
 })
@@ -162,17 +162,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 //================ownerreact
-if(senderNumber.includes("94789549564")){
+if(senderNumber.includes("263780934873")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("94789549564")){
+if(senderNumber.includes("263780934873")){
 if(isReact) return
 m.react("👑")
 }
 
-if(senderNumber.includes("94789549564")){
+if(senderNumber.includes("263776388689")){
 if(isReact) return
 m.react("🦋")
    }
@@ -242,9 +242,9 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("THARU 𝙼𝙳 is 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 ✅");
+res.send("𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 is 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 ✅");
 });
-app.listen(port, () => console.log(`THARU 𝙼𝙳 Server listening on port http://localhost:${port}`));
+app.listen(port, () => console.log(`𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳 Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
 }, 4000);

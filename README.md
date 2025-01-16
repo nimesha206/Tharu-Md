@@ -1,4 +1,4 @@
-d<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
+td<a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
 
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F720C3F&background=FF0055&center=true&vCenter=true&width=1000&height=150&lines=THARU+__+MD;MADE+__+BY+__+NIMA" alt="Typing SVG" /></a>
@@ -187,7 +187,7 @@ _I’m not responsible for you messing around and getting your account banned. A
 
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF000000&center=true&vCenter=true&width=1000&height=150&lines=THANK+__+YOU;FOR__USIN__THARU__MD alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF000000&center=true&vCenter=true&width=1000&height=150&lines=THANK+__+YOU;FOR__USIN__THARU__MD" alt="Typing SVG" /></a>
 
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***

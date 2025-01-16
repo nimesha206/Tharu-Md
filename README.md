@@ -6,7 +6,7 @@
 <a><img src='https://files.catbox.moe/3nugy4.jpeg'/>
 
 <img align="center" height="auto"
-src="https://files.catbox.moe/7pg2gp.jpg?"/>
+src=""/>
 
 <br>
 

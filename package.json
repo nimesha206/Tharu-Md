@@ -1,7 +1,7 @@
 {
   "name": "lara-2v",
   "version": "1.0.0",
-  "description": "THARU-MD WhatsApp bot created NIMA With using Node.js",
+  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name lara-2v",

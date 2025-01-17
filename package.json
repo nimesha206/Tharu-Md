@@ -1,12 +1,12 @@
 {
-  "name": "THARU-2v",
+  "name": "lara-2v",
   "version": "1.0.0",
-  "description": "THARU-MD WhatsApp bot created THARU With using Node.js",
+  "description": "THARU-MD WhatsApp bot created NIMA With using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name THARU-2v",
-    "stop": "pm2 stop THARU",
-    "restart": "pm2 restart THARU-2v"
+    "start": "pm2 start index.js --deep-monitoring --attach --name lara-2v",
+    "stop": "pm2 stop lara",
+    "restart": "pm2 restart lara-2v"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",

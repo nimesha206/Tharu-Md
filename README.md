@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>👧🏻THARU-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
+<img src="https://files.catbox.moe/3nugy4.jpeg" width="300" height="150">
 </div>
 <div align="center">
 </p>

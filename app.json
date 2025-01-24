@@ -1,0 +1,32 @@
+{
+    "name": "𝐓𝐇𝐀𝐑𝐔-𝐌𝐃",
+    "description": "𝐓𝐇𝐀𝐑𝐔-𝐌𝐃 Whatsapp Bot By ELISACODERS. You Must Fill This form for deploy bot !",
+    "repository": "https://github.com/nimesha206/ZUSYCO-MD",
+    "logo": "https://files.catbox.moe/rnjlel.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp 𝐓𝐇𝐀𝐑𝐔-𝐌𝐃 Bot"
+    ],
+    "env": {
+        "SESION_ID": {
+            "description": "Get using Scan QR Code or Using Pair code.",
+            "required": true
+        },
+        "MONGODB_UR": {
+            "description": "Put Mongodb Database Url for Run Bot",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+    ],
+    "formation": {
+        "woker": {
+            "quantity": 1,
+            "size": "standard-1x"
+        }
+    }
+}

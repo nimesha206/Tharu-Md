@@ -1,0 +1,82 @@
+{
+  "name": "tharumd",
+  "version": "4.0.2",
+  "description": "𝐓𝐇𝐀𝐑𝐔 𝐌𝐃 is an intelligent communication bot designed to interact with users and provide various services. Developed by Mr. Nima, it enhances user engagement through automated responses, information retrieval, and downloading media. Versatile for applications like personal assistance.",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "npm install -g pm2 && pm2 start main.js --name=queen-elisa && pm2 logs",
+    "node": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimesha206/Tharu-Md.git"
+  },
+  "keywords": [
+    "queen",
+    "elisa",
+    "whatsapp",
+    "mrnima",
+    "automate",
+    "baileys",
+    "wa-web",
+    "speed",
+    "2024"
+  ],
+  "author": "darkmakerofc (nimacoder)",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@mrnima/facebook-downloader": "latest",
+    "@mrnima/instagram-downloader": "latest",
+    "@mrnima/technology_news_info": "latest",
+    "@mrnima/tiktok-downloader": "latest",
+    "@mrnima/wabetainfo": "latest",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "acrcloud": "^1.4.0",
+    "adm-zip": "^0.5.16",
+    "awesome-phonenumber": "^6.4.0",
+    "aws4": "^1.12.0",
+    "axios": "^1.5.1",
+    "cfonts": "^3.2.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "didyoumean": "^1.2.2",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "human-readable": "^0.2.1",
+    "javascript-obfuscator": "^4.1.1",
+    "jimp": "^0.16.13",
+    "jsdom": "^24.0.0",
+    "link-preview-js": "^3.0.13",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "megajs": "^1.3.0",
+    "moment-timezone": "^0.5.44",
+    "mongoose": "^8.1.0",
+    "mrnima-moviedl": "^1.0.0",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.6.1",
+    "node-id3": "^0.2.6",
+    "node-webpmux": "^3.2.0",
+    "pastebin-js": "npm:pastebin-reup@1.0.6",
+    "perf_hooks": "^0.0.1",
+    "performance-now": "^2.1.0",
+    "qrcode-terminal": "^0.12.0",
+    "queen-elisa-md": "^4.0.3",
+    "request": "^2.88.2",
+    "similarity": "^1.2.1",
+    "steno": "^1.0.0",
+    "translate-google": "^1.5.0",
+    "unzipper": "^0.12.3",
+    "wa-sticker-formatter": "^4.4.4",
+    "yargs": "^17.7.2",
+    "yt-search": "^2.12.0"
+  },
+  "bugs": {
+    "url": "https://github.com/nimesha206/Tharu-Md/issues"
+  },
+  "homepage": "https://github.com/nimesha206/Tharu-Md#readme"
+}

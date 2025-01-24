@@ -35,15 +35,15 @@
 ## How create queen elisa.
 **1. You must need those things before deploy.**
  - _YOUTUBE CHANNEL._
-   * [![NIMAYT](https://img.shields.io/badge/MY YOUTUBE-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH](https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH))
+   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))
  - _mongodb url ( sing up and get mongodb url )_
    *</br>
  - _host_
 ### [START DEPLOY](https://mr-nima.vercel.app/deploy-elisa) 
 **2. Deploy steps.**
- - _Fork queen elisa repository._
+ - _Fork tharu md repository._
  - _Link with yoour whatsappp using Scan qr code or pair code._
- - _Open elisaconfig.env on your forked repository. and put `SESSION_ID` and `MONGODB_URL` on it and change other settings form settings.js you need._
+ - _Open tharuconfig.env on your forked repository. and put `SESSION_ID` and `MONGODB_URL` on it and change other settings form settings.js you need._
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY

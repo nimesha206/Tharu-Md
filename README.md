@@ -8,7 +8,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=THARU+MD+WHATSAPP+BOT" alt="">
 </p>
     <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-NIMA CODER-red.svg?style=for-the-badge&logo=github"></a>
      
 <a href = ""><img alt="MR NIMA ODC" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 </p>
@@ -30,7 +30,7 @@
  ### `VERSION : 4.0.2 - V`
  `Last Update : ` _2025-01-17_ | [Update Info](https://mr-nima.vercel.app/change-log)
 
-#### Give One star For Queen Elisa and [Follow Me](https://github.com/DarkMakerofc) 
+#### Give One star For THARU MD and [Follow Me](https://whatsapp.com/channel/0029VayxHHO5vKAE7nY41a1I) 
 
 ## How create queen elisa.
 **1. You must need those things before deploy.**

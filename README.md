@@ -25,10 +25,7 @@
 </div>
 
 ### Please Read !
-Queen elisa is a whatsapp bot created by mr nima ( darkmakerofc ) & ELISACODERS TEAM using baileys web api. Do not use this bot in a way that will cause trouble to others. 
-We are not responsible for any problems caused by your use of this!
-[Contact the support group](https://t.me/queenelisasupport) for any issues that arise during the bot creation process ( if you see this in 2026 don't join grp ).
-And Follow mr nima and give one star for queen elisa.
+
 </br>
  ### `VERSION : 4.0.2 - V`
  `Last Update : ` _2025-01-17_ | [Update Info](https://mr-nima.vercel.app/change-log)

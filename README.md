@@ -47,7 +47,7 @@
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "https://github.com/darkmakerofc/QUEEN-ELISA-WA/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
+<a href = "https://github.com/nimesha206/Tharu-Md/fork"> <img src = "/repo-data/fork-tharu-repo-button.svg" width="150" height="70" > </a>
 </br>
 
 ## 2. GET SESSION ID
@@ -58,10 +58,10 @@
 <a href = "https://mr-nima.vercel.app/deploy-elisa"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
 </br>
  <!--
-[`TELEGRAM BOT`](https://t.me/queen_elisa_pair_bot)
+[`Whatsapp BOT`](https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co)
 -->
 ## Deploy.
- [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QUEEN-ELISA-WA)
+ [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/nimesha206/Tharu-Md)
   
 [![nima](https://img.shields.io/badge/elisa_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
    

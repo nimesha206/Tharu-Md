@@ -5,7 +5,7 @@
 <img src = "repo-data/repo-logo.jpg"  width="300" height="300">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=THARU+MD+WHATSAPP+BOT" alt="">
 </p>
     <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>

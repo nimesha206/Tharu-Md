@@ -35,7 +35,7 @@
 ## How create tharu md.
 **1. You must need those things before deploy.**
  - _YOUTUBE CHANNEL._
-   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH))
+   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH](https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH))
  - _mongodb url ( sing up and get mongodb url )_
    *</br>
  - _host_

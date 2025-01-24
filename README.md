@@ -35,8 +35,10 @@
 ## How create queen elisa.
 **1. You must need those things before deploy.**
  - _Github Account._
-   * [![NIMAYT](https://img.shields.io/badge/MY YOUTUBE CHANNEL-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH](https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH))
- </br>
+   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))
+ - _mongodb url ( sing up and get mongodb url )_
+   *</br>
+ - _host_
 ### [START DEPLOY](https://mr-nima.vercel.app/deploy-elisa) 
 **2. Deploy steps.**
  - _Fork queen elisa repository._

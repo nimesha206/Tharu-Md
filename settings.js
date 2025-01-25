@@ -6,7 +6,7 @@ OWNER: @nimesha206 | @NIMA-CODER-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'mz4TlRoD#w6UEqrIJX4lqCHZVpdyR-xKr5Z1vuQclLgoxNZHNEk4',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 

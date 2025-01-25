@@ -61,15 +61,7 @@
 [`Whatsapp BOT`](https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co)
 -->
 ## Deploy.
- [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/nimesha206/Tharu-Md)
-  
-[![nima](https://img.shields.io/badge/elisa_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
-   
-[![nima](https://img.shields.io/badge/elisa_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
-   
-[![nima](https://img.shields.io/badge/elisa_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
-
-[![nima](https://img.shields.io/badge/elisa_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+ "CODESPAECE  ONLY
 
 
 ## Watch Youtube videos.
@@ -86,33 +78,31 @@ pkg install libwebp
 pkg install git -y
 pkg install nodejs -y 
 pkg install imagemagick -y
-git clone https://github.com/darkmakerofc/QUEEN-ELISA-WA
-cd QUEEN-ELISA-WA
+git clone https://github.com/nimesha206/Tharu-Md
+cd Tharu-Md
 npm install
 npm start
 ```
 
 
 ## 🔗 Contact Links
-[![NIMAYT](https://img.shields.io/badge/SUBSCRIBE%20ME-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MRNIMAOFC/)</br>
-[![NIMAYT](https://img.shields.io/badge/FOLLOW%20MRNIMA%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaPrYpf0G0XrL1qz9j3i)</br>
-[![NIMAYT](https://img.shields.io/badge/FOLLOW%20ELISACODERS%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaeSE0bHgZWiMBaxEA2c)</br>
-[![tg](https://img.shields.io/badge/elisacoders-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/elisacoders)
+[![NIMAYT](https://img.shields.io/badge/SUBSCRIBE%20ME-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH)</br>
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20MRNIMA%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VayxHHO5vKAE7nY41a1I)</br>
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20ELISACODERS%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VayxHHO5vKAE7nY41a1I)</br>
+[![tg](https://img.shields.io/badge/elisacoders-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co)
 </br>
 ## Authors
-- [@darkmakerofc](https://www.github.com/darkmakerofc)
-- [@mrnima](https://www.github.com/mr-nima-x)
-- [@slrealtech - web author](https://github.com/sl-real-tech)<br>
+- [@nimesha206](https://github.com/nimesha206)
+-<br>
 
 ## Thanks to
-- [#Baileys](https://github.com/WhiskeySockets/Baileys)<br>
-- [#Sl Real Tech](https://github.com/sl-real-tech)<br>
-- [#Thashini Himanga](#)<br>
+- [#tharu](https://github.com/nimesha206)<br>
+-<br>
 
 ## Feedback
-If you have any feedback, please reach out to us at queenelisa.bot@gmail.com
+If you have any feedback, please reach out to us at whatsappbughole@gmail.com
 
 ## Support
-If you need help, Join queen elisa telegram support group [t.me/queenelisasupport](t.me/queenelisasupport)
+If you need help, Join tharu md whatsapp support group [https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co](t.me/queenelisasupport)
 </br></br></br>
- <p align="center"> ELISACODERS - QUEEN ELISA | 2025 </p>
+ <p align="center"> NIMACODER - THARU MD | 2025 </p>

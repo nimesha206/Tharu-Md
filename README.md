@@ -88,8 +88,8 @@ npm start
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/SUBSCRIBE%20ME-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nimesha_editz?si=Q5zCorpkPIjMBSaH)</br>
 [![NIMAYT](https://img.shields.io/badge/FOLLOW%20MRNIMA%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VayxHHO5vKAE7nY41a1I)</br>
-[![NIMAYT](https://img.shields.io/badge/FOLLOW%20ELISACODERS%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VayxHHO5vKAE7nY41a1I)</br>
-[![tg](https://img.shields.io/badge/elisacoders-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co)
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20THARUCODER%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VayxHHO5vKAE7nY41a1I)</br>
+[![tg](https://img.shields.io/badge/THARUcoder-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://chat.whatsapp.com/J085BIRq2F614d44rWS4Co)
 </br>
 ## Authors
 - [@nimesha206](https://github.com/nimesha206)
